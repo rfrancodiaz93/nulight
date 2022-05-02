@@ -17,7 +17,7 @@ header{
   width: 100%;
   background-color: rgba(50,50,50,1);
   display: flex;
-
+  color: white;
 
 }
 
@@ -37,5 +37,6 @@ header nav{
 
 header nav a{
   display: inline-block;
-  
+  padding: 1%;
+
 }
